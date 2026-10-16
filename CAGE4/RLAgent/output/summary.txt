@@ -1,0 +1,4 @@
+CybORG v4.0, Scenario4
+Author: PPO-init, Team: LANCER, Technique: PPO
+Average reward is: -239.6 with a standard deviation of 104.3950345194791
+Using agents {'blue_agent_0': Agent, 'blue_agent_1': Agent, 'blue_agent_2': Agent, 'blue_agent_3': Agent, 'blue_agent_4': Agent}
